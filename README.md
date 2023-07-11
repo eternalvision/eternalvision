@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/XXq8jWy/tumblr-34134e9f09e7d6b1bcdffd45b0f912f2-db4e1dc3-540.gif)](https://imgbb.com)
+[![MasterHead](https://i.ibb.co/XXq8jWy/tumblr-34134e9f09e7d6b1bcdffd45b0f912f2-db4e1dc3-540.gif)]
 <h1 align="center">Hi 👋, I'm Alexander Priadchenko</h1>
 <h3 align="center">Full-Stack Web Developer from Ukraine / Teacher at the "STEP IT Academy" in Prague</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
