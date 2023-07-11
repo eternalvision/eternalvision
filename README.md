@@ -3,13 +3,13 @@
 <h3 align="center">Full-Stack Web Developer from Ukraine / Teacher at the "STEP IT Academy" in Prague</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
 
-- 🌱 I’m currently learning **Three.js, Spring.js, Android**
+🌱 I’m currently learning **Three.js, Spring.js, Android**
 
-- 💬 Ask me about **React, Node.js**
+💬 Ask me about **React, Node.js**
 
-- 📫 How to reach me **al.pryadchenko@gmail.com**
+📫 How to reach me **al.pryadchenko@gmail.com**
 
-- 📄 Know about my experiences [https://eternalvision.github.io/Resume/](https://eternalvision.github.io/Resume/)
+📄 Know about my experiences [https://eternalvision.github.io/Resume/](https://eternalvision.github.io/Resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
