@@ -1,6 +1,3 @@
-
-<img src="./maingif.gif" width=1920>
-
 <h1 align="center">Hi 👋, I'm Alexander Priadchenko</h1>
 <h3 align="center">Full-Stack Web Developer from Ukraine / Teacher at the "STEP IT Academy" in Prague</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
@@ -27,3 +24,5 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternalvision&show_icons=true&locale=en" alt="eternalvision" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eternalvision&" alt="eternalvision" /></p>
+
+<img src="./maingif.gif" width=1920 style="border-radius:6px" >
