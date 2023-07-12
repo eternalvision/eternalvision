@@ -1,4 +1,6 @@
 
+[![MasterHead](./maingif.gif)]
+
 <h1 align="center">Hi 👋, I'm Alexander Priadchenko</h1>
 <h3 align="center">Full-Stack Web Developer from Ukraine / Teacher at the "STEP IT Academy" in Prague</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
@@ -22,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eternalvision&show_icons=true&locale=en&layout=compact" alt="eternalvision" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eternalvision&show_icons=true&locale=en" alt="eternalvision" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=eternalvision&show_icons=true&locale=en" alt="eternalvision" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eternalvision&" alt="eternalvision" /></p>
