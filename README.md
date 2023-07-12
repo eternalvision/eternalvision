@@ -1,5 +1,5 @@
 
-[![MasterHead](./maingif.gif)]
+<img src="./maingif.gif" width=1920>
 
 <h1 align="center">Hi 👋, I'm Alexander Priadchenko</h1>
 <h3 align="center">Full-Stack Web Developer from Ukraine / Teacher at the "STEP IT Academy" in Prague</h3>
