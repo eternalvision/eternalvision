@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Web Developer from Ukraine [React, Node.js] / Mentor at the "STEP IT Academy" in Prague</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
 
-🌱 I’m currently learning **Three.js, Spring.js, Android**
+🌱 I’m currently learning **Three.js**
 
-💬 Ask me about **React, Node.js**
+💬 Ask me about **React, Node.js, SASS, HTML**
 
 📫 How to reach me **al.pryadchenko@gmail.com**
 
