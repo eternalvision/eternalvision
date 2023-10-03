@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning **Three.js**
 
-💬 Ask me about **React, Node.js, SASS, HTML**
+💬 Ask me about **React, Node.js**
 
 📫 How to reach me **al.pryadchenko@gmail.com**
 
