@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalvision&label=Profile%20views&color=0e75b6&style=flat" alt="eternalvision" /> </p>
 
-🌱 I’m currently learning **Three.js**
+🌱 I’m currently learning **Next.js**
 
 💬 Ask me about **React, Node.js**
 
