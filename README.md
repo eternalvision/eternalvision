@@ -1,9 +1,4 @@
-<div
-style="
-display: flex;
-align-items: flex-start;
-justify-content: center;
-flex-wrap: wrap;">
+<div style="display: flex; align-items: flex-start; justify-content: center; flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column">
 <img
 src="https://count.getloli.com/get/@:eternalvision"
