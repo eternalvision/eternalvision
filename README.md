@@ -299,32 +299,6 @@ height="40" />
 </li>
 <li style="margin-left: 10px">
 <a
-href="https://vercel.com/"
-target="_blank"
-rel="noreferrer"
-style="
-width: 30px;
-height: 30px;
-border-radius: 50%;
-justify-content: center;
-align-items: center;
-background-color: #000;
-display: flex;
-">
-<svg
-width="26px"
-height="15px"
-viewBox="0 0 76
-65"
-fill="none"
-xmlns="http://www.w3.org/2000/svg">
-<path
-d="M37.5274 0L75.0548 65H0L37.5274 0Z"
-fill="#ffffff" /></svg
-></a>
-</li>
-<li style="margin-left: 10px">
-<a
 href="https://heroku.com"
 target="_blank"
 rel="noreferrer">
