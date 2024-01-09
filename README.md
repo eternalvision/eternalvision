@@ -3,8 +3,7 @@ style="
 display: flex;
 align-items: flex-start;
 justify-content: center;
-flex-wrap: wrap;
-">
+flex-wrap: wrap;">
 <div style="display: flex; flex-direction: column">
 <img
 src="https://count.getloli.com/get/@:eternalvision"
@@ -42,7 +41,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://www.w3schools.com/css/"
 target="_blank"
@@ -54,7 +53,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://sass-lang.com"
 target="_blank"
@@ -87,7 +86,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://babeljs.io/"
 target="_blank"
@@ -120,7 +119,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://expressjs.com"
 target="_blank"
@@ -153,7 +152,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://redux.js.org"
 target="_blank"
@@ -186,7 +185,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://www.photoshop.com/en"
 target="_blank"
@@ -219,7 +218,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://www.mysql.com/"
 target="_blank"
@@ -252,7 +251,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://webpack.js.org"
 target="_blank"
@@ -264,7 +263,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://ru.parceljs.org/getting_started.html"
 target="_blank"
@@ -297,7 +296,7 @@ width="40"
 height="40" />
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://vercel.com/"
 target="_blank"
@@ -323,7 +322,7 @@ d="M37.5274 0L75.0548 65H0L37.5274 0Z"
 fill="#ffffff" /></svg
 ></a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://glitch.com/"
 target="_blank"
@@ -390,7 +389,7 @@ fill="currentColor"></path>
 </svg>
 </a>
 </li>
-<li style="margin-left: 10px">
+<li style="list-style:none; margin-left: 10px">
 <a
 href="https://heroku.com"
 target="_blank"
