@@ -1,9 +1,9 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>Document</title>
+        <style>div ul li{margin-bottom: 0px;}</style>
     </head>
     <body>
         <div
@@ -460,5 +460,4 @@
                 style="margin-top: 20px; border-radius: 20px; width: 100%" />
         </div>
     </body>
-
 </html>
