@@ -8,7 +8,10 @@
             <br/>
             <img src="https://github-readme-stats.vercel.app/api?username=eternalvision&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
             <br/>
+            <img src='./fire.gif'/>
+            <br/>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eternalvision&theme=dark&hide_border=true" alt="Profile Details">
+            <br/>
         </td>
         <td valign='top'>
             <img src="https://spotify-github-profile.vercel.app/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile">
