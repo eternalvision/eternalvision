@@ -1,7 +1,7 @@
 <div align='center'>
 <table>
     <tr>
-        <td align='center'>
+        <td align='right'>
             <img src="https://count.getloli.com/get/@:eternalvision" alt=":eternalvision">
             <br/>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalvision&theme=dark&hide_border=true" alt="Top Languages">
