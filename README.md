@@ -14,7 +14,7 @@
             <br/>
         </td>
         <td valign='top'>
-            <img src="https://spotify-github-profile.vercel.app/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Profile">
+            <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&redirect=true" alt="Spotify Profile">
                                         <a
                                 href="https://www.w3.org/html/"
                                 target="_blank"
@@ -149,7 +149,7 @@
                                     width="40"
                                     height="40" />
                             </a>
-                            <a href='https://www.postgresql.org/'> 
+                            <a href='https://www.postgresql.org/'>
                                 <img src='https://www.postgresql.org/media/img/about/press/elephant.png' width="40"
                                     height="40" alt="postgresql"/>
                             <a/>
