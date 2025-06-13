@@ -315,6 +315,7 @@
             width="40"
             height="40" />
         </a>
+        </br>
       </td>
     </tr>
   </table>
