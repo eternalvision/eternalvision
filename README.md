@@ -90,6 +90,50 @@
             height="40" />
         </a>
         <hr/>
+        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
+            alt="redux"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://storybook.js.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://storybook.js.org/icon.svg"
+            alt="storybook"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://eslint.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg"
+            alt="eslint"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://prettier.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://prettier.io/icon.png"
+            alt="prettier"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+        <a href="https://vitest.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://vitest.dev/logo.svg"
+            alt="vitest"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://www.cypress.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.cypress.io/favicon.ico"
+            alt="cypress"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
         <a href="https://tauri.app/" target="_blank" rel="noreferrer">
           <img
             src="https://tauri.app/favicon.svg"
@@ -149,51 +193,20 @@
             height="40" />
         </a>
         <hr/>
-        <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-            alt="redux"
-            width="40"
-            height="40" />
-        </a>
-        <br />
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-            alt="figma"
-            width="40"
-            height="40" />
-        </a>
-        <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop"
-            width="40"
-            height="40" />
-        </a>
-        <br />
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
+            src="https://www.mongodb.com/assets/images/global/favicon.ico"
             alt="mongodb"
-            width="40"
-            height="40" />
-        </a>
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql"
             width="40"
             height="40" />
         </a>
         <a href="https://www.postgresql.org/">
           <img
-            src="https://www.postgresql.org/media/img/about/press/elephant.png"
+            src="https://www.postgresql.org/favicon.ico"
             width="40"
             height="40"
             alt="postgresql" />
         </a>
-        <br />
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -201,14 +214,14 @@
             width="40"
             height="40" />
         </a>
-        <a href="https://heroku.com" target="_blank" rel="noreferrer">
+        <a href="https://postman.com" target="_blank" rel="noreferrer">
           <img
-            src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
-            alt="heroku"
+            src="https://voyager.postman.com/logo/postman-logo-icon-orange.svg"
+            alt="postman"
             width="40"
             height="40" />
         </a>
-        <br />
+        <hr/>
         <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
           <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
@@ -216,15 +229,92 @@
             width="40"
             height="40" />
         </a>
-        <br />
-        <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <a href="https://github.com/" target="_blank" rel="noreferrer">
           <img
-            src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-            alt="postman"
+            src="https://github.githubassets.com/favicons/favicon-dark.svg"
+            alt="gitlab"
             width="40"
             height="40" />
         </a>
-        <br />
+        <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://about.gitlab.com/images/ico/favicon.ico"
+            alt="gitlab"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"
+            alt="docker"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://www.elastic.co/beats/filebeat" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.elastic.co/favicon.ico"
+            alt="filebeat"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://graylog.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://graylog.org/wp-content/uploads/2024/04/Graylog_Logo_2024_icon_blueblack-01.png"
+            alt="graylog"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://signoz.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://signoz.io/img/SigNozLogo-orange.svg"
+            alt="signoz"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://opentelemetry.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://opentelemetry.io/favicons/favicon.ico"
+            alt="otel"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+            alt="figma"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://www.adobe.com/cz/products/photoshop.html" target="_blank" rel="noreferrer">
+          <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+            alt="photoshop"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://spline.design/" target="_blank" rel="noreferrer">
+          <img
+            src="https://spline.design/images/icon_favicon32x32.png"
+            alt="spline3d"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://www.image-line.com/fl-studio/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.image-line.com/favicon.ico"
+            alt="flstudio"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://rekordbox.com/en/" target="_blank" rel="noreferrer">
+          <img
+            src="https://cdn.rekordbox.com/home-2022/v10/img/2022/common/meta/favicon.ico"
+            alt="rekordbox"
+            width="40"
+            height="40" />
+        </a>
       </td>
     </tr>
   </table>
