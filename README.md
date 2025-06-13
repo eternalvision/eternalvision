@@ -1,7 +1,7 @@
 <div align='center'>
 <table>
     <tr>
-        <td align='right'>
+        <td valign='top'>
             <img src="https://count.getloli.com/get/@:eternalvision" alt=":eternalvision">
             <br/>
             <img src='./fire.gif'/>
