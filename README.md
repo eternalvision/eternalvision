@@ -1,17 +1,18 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top">
+      <td valign="middle">
         <img
           src="https://count.getloli.com/get/@:eternalvision"
           alt=":eternalvision" />
-        <br />
+        <hr/>
         <img src="./fire.gif" />
       </td>
       <td valign="top">
         <img
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
           alt="Spotify Profile" />
+        <hr/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <br />
           <img
@@ -20,10 +21,7 @@
             width="40"
             height="40" />
         </a>
-        <a
-          href="https://www.w3schools.com/css/"
-          target="_blank"
-          rel="noreferrer">
+        <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
             alt="css3"
