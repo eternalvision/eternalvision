@@ -13,7 +13,7 @@
         <img src="./fire.gif" />
       </td>
       <td valign="top">
-      </br>
+        <br/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -315,7 +315,7 @@
             width="40"
             height="40" />
         </a>
-        </br>
+        <br/>
       </td>
     </tr>
   </table>
