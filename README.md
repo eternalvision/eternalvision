@@ -6,7 +6,7 @@
             <br/>
             <img src='./fire.gif'/>
             <br/>
-            <img src="./maingif.gif" width='1920' style="border-radius:10px" >
+            <img src="./maingif.gif" >
         </td>
         <td valign='top'>
             <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" alt="Spotify Profile">
