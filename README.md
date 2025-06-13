@@ -9,12 +9,12 @@
         <img src="./fire.gif" />
       </td>
       <td valign="top">
+      </br>
         <img
           src="https://spotify-github-profile.kittinanx.com/api/view?uid=31csja3bnd7oq3igyhi5xauxdceu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false"
           alt="Spotify Profile" />
         <hr/>
         <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-          <br />
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5"
