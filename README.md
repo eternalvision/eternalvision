@@ -35,7 +35,14 @@
             width="40"
             height="40" />
         </a>
-        <br />
+        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://tailwindcss.com/favicons/apple-touch-icon.png"
+            alt="tailwindcss"
+            width="50"
+            height="40" />
+        </a>
+        <hr/>
         <a
           href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
           target="_blank"
@@ -46,36 +53,102 @@
             width="40"
             height="40" />
         </a>
-        <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
           <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
-            alt="babel"
+            src="https://www.typescriptlang.org/favicon.ico"
+            alt="typescriptlang"
             width="40"
             height="40" />
         </a>
-        <br />
-        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <hr/>
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
           <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs"
-            width="40"
-            height="40" />
-        </a>
-        <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-            alt="express"
-            width="40"
-            height="40" />
-        </a>
-        <br />
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            src="https://react.dev/favicon.ico"
             alt="react"
             width="40"
             height="40" />
         </a>
+        <a href="https://preactjs.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://preactjs.com/favicon.ico"
+            alt="preactjs"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://nextjs.org/favicon.ico"
+            alt="nextjs"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://vuejs.org/logo.svg"
+            alt="vuejs"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+        <a href="https://tauri.app/" target="_blank" rel="noreferrer">
+          <img
+            src="https://tauri.app/favicon.svg"
+            alt="tauri"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://www.electronjs.org/assets/img/favicon.ico"
+            alt="react"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+        <a href="https://vite.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://vite.dev/logo.svg"
+            alt="vite"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
+          <img
+            src="https://babeljs.io/img/favicon.png"
+            alt="babel"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://webpack.js.org/" target="_blank" rel="noreferrer">
+          <img
+            src="https://webpack.js.org/icon_150x150.png"
+            alt="webpack"
+            width="40"
+            height="40" />
+        </a>
+        <hr/>
+        <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+          <img
+            src="https://nodejs.org/static/images/favicons/favicon.png"
+            alt="nodejs"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+          <img
+            src="https://expressjs.com/images/favicon.png"
+            alt="express"
+            width="40"
+            height="40" />
+        </a>
+        <a href="https://fastify.dev/" target="_blank" rel="noreferrer">
+          <img
+            src="https://fastify.io/img/logos/fastify-black.svg"
+            alt="fastify"
+            width="80"
+            height="40" />
+        </a>
+        <hr/>
         <a href="https://redux.js.org" target="_blank" rel="noreferrer">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
@@ -119,21 +192,6 @@
             width="40"
             height="40"
             alt="postgresql" />
-        </a>
-        <br />
-        <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-          <img
-            src="https://vite.dev/logo.svg"
-            alt="vite"
-            width="40"
-            height="40" />
-        </a>
-        <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-          <img
-            src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-            alt="webpack"
-            width="40"
-            height="40" />
         </a>
         <br />
         <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
