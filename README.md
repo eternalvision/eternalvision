@@ -4,10 +4,6 @@
         <td align='right'>
             <img src="https://count.getloli.com/get/@:eternalvision" alt=":eternalvision">
             <br/>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternalvision&theme=dark&hide_border=true" alt="Top Languages">
-            <br/>
-            <img src="https://github-readme-stats.vercel.app/api?username=eternalvision&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
-            <br/>
             <img src='./fire.gif'/>
             <br/>
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eternalvision&theme=dark&hide_border=true" alt="Profile Details">
