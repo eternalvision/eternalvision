@@ -57,6 +57,13 @@
 <tr>
 <td width="50%" valign="top">
 <p align="center">
+<a href="https://www.letuska.cz/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.letuska.cz/assets/img/logo/cs/logo.svg" />
+    <img src="https://www.letuska.cz/assets/img/logo/cs/logo_dark.svg" alt="Letuška.cz logo" width="160" />
+  </picture>
+</a>
+<br />
 <a href="https://www.letuska.cz/"><img src="https://img.shields.io/badge/ASIANA%20%2F%20Letu%C5%A1ka-2b2b2b?style=for-the-badge" alt="ASIANA / Letuška" /></a>
 </p>
 <p><strong>Full-Stack &amp; DevOps Engineer · Aug 2026 – present</strong></p>
@@ -70,6 +77,10 @@
 </td>
 <td width="50%" valign="top">
 <p align="center">
+<a href="https://www.vypisflow.cz/en">
+  <img src="https://www.vypisflow.cz/logo.svg" alt="VýpisFlow logo" width="48" height="48" />
+</a>
+<br />
 <a href="https://www.vypisflow.cz/en"><img src="https://img.shields.io/badge/V%C3%BDpisFlow-2b2b2b?style=for-the-badge" alt="VýpisFlow" /></a>
 </p>
 <p><strong>Browser-based accounting SaaS</strong></p>
@@ -198,6 +209,10 @@
 <tr>
 <td width="50%" valign="top">
 <p align="center">
+<a href="https://www.instarum.cz/">
+  <img src="https://www.instarum.cz/logo.svg" alt="InstaRum logo" width="48" height="48" />
+</a>
+<br />
 <a href="https://www.instarum.cz/"><img src="https://img.shields.io/badge/INSTARUM-2b2b2b?style=for-the-badge" alt="INSTARUM" /></a>
 </p>
 <p><strong>INSTARUM · Freelance Frontend Engineer · May–Jun 2026</strong></p>
