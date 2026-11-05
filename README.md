@@ -60,10 +60,12 @@
 <a href="https://www.letuska.cz/"><img src="https://img.shields.io/badge/ASIANA%20%2F%20Letu%C5%A1ka-2b2b2b?style=for-the-badge" alt="ASIANA / Letuška" /></a>
 </p>
 <p><strong>Full-Stack &amp; DevOps Engineer · Aug 2026 – present</strong></p>
+<p>I work across ASIANA’s travel booking, content management, airline distribution, and developer tooling.</p>
 <ul>
-<li>Work across <a href="https://letim.cz/">letim.cz</a>, a travel booking platform built with SvelteKit, Svelte 5, and Express 5, and existing Letuška applications built with Angular and NgRx.</li>
-<li>Modernized a TypeScript monorepo through a pnpm migration, staged dependency upgrades, per-package Vitest coverage, and stronger types in shared models. Built shared development configuration and a CLI for Angular, SvelteKit, and Express projects.</li>
-<li>Work on booking and payment integrations, PostgreSQL-backed services, and typed authentication with Redis-backed sessions. Support production delivery with GitLab CI/CD, Docker, Kubernetes, private registries, and OpenTelemetry tracing. Build internal AI tooling for engineering workflows with Claude Code and MCP.</li>
+<li><strong>Letuška CMS.</strong> Built a visual block editor with responsive previews, undo and redo, reusable sections, and data-driven content. Implemented multilingual preview and publishing workflows, and contributed catalog blocks, content models, and search filters for the Study.cz migration.</li>
+<li><strong>Travel booking.</strong> Modernized <a href="https://letim.cz/">letim.cz</a> across SvelteKit and Express. Migrated the monorepo to pnpm, upgraded dependencies, expanded GitLab CI test coverage, and strengthened types across hotel booking, checkout, and shared models. Worked on Docker and Kubernetes deployment configuration.</li>
+<li><strong>Airline distribution.</strong> Built an Angular admin interface, REST API, and PostgreSQL layer for managing routes and departure airports, with bulk edits, import and export, and automated validation.</li>
+<li><strong>Developer tooling.</strong> Built a shared configuration package and CLI for Angular, SvelteKit, and Express. Rolled out checks for accessibility, localization, testing, and code quality across the mobile app, flight map, and partner portal, and extracted reusable localization tooling from the SvelteKit starter.</li>
 </ul>
 </td>
 <td width="50%" valign="top">
