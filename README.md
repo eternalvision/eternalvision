@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:000000,45:2b2b2b,100:555555&amp;text=Alexander%20Priadchenko&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full-stack%2C%20Frontend%20Platforms%20%26%20DevOps&amp;descAlignY=60&amp;descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=190&amp;color=0:000000,45:2b2b2b,100:555555&amp;text=Alexander%20Priadchenko&amp;fontColor=ffffff&amp;fontSize=42&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20Full-stack%2C%20Frontend%20Platforms%20and%20DevOps&amp;descAlignY=60&amp;descSize=16"
     alt="Alexander Priadchenko - Software Engineer"
     width="100%" />
 </div>
